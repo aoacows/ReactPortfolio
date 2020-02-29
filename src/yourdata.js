@@ -40,14 +40,14 @@ export default
                 title: 'Strain vein (React/2nd iteration)',
                 service: 'WIP',
                 imageSrc: "https://images.unsplash.com/photo-1511500118080-275313ec90a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'http://chetanverma.com/'
+                url: '#'
             },
             {
                 id: 4,
                 title: 'Project Four',
                 service: 'Future Development',
                 imageSrc: "https://images.unsplash.com/photo-1558452919-08ae4aea8e29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-                url: 'http://chetanverma.com/'
+                url: '#'
            }
 
                     /*
